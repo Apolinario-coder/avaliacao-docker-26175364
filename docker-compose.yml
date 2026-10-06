@@ -1,7 +1,7 @@
 # docker-compose.yml · ViaSerra Transportes
 #
 # Este arquivo sobe os dois sites de uma vez, no lugar de dois "docker run".
-# Complete as 4 lacunas marcadas com ____ e rode:  docker compose up -d
+# Complete as 4 lacunas e rode:  docker compose up -d
 # Não mude a indentação: no YAML, os espaços no começo da linha fazem parte da sintaxe.
 
 services:
